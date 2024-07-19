@@ -1,0 +1,24 @@
+{
+  "pessoas": [
+  {
+    "nome": "João Silva",
+    "imagem": "assets/images/perfil1.jpg"
+  },
+  {
+    "nome": "Maria Santos",
+    "imagem": "assets/images/perfil2.jpg"
+  },
+  {
+    "nome": "Pedro Rodrigues",
+    "imagem": "assets/images/perfil3.png"
+  },
+  {
+    "nome": "Ana Oliveira",
+    "imagem": "assets/images/perfil1.jpg"
+  },
+  {
+    "nome": "Carlos Ferreira",
+    "imagem": "assets/images/perfil2.jpg"
+  }
+]
+}
