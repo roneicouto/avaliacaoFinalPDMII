@@ -1,16 +1,32 @@
-# myapp
+# Aplicativo para Avaliação da Disciplina de Programação para Dispositivos Móveis II
 
-A new Flutter project.
+Feito em:
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/73f1437a-7e98-4a7d-9314-9d9a4e5df1e4)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Conforme solicitado pela disciplina este projeto contém diversos widgets como:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Statefull e Stateless
+### Scafold()
+### AppBar()
+### Center()
+### Column()
+### Padding()
+### ElevatedButton()
+### Image()
+### Text()
+### ListView()
+### Expanded()
+### Card()
+### dentre outros . . .
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## E elementos como:
+### Assets
+### Funções
+### Alterações de Estado com setState()
+### JSON
+### Listas
+### Rotas Nomeadas
+### Widgets Personalizados
+### Future
