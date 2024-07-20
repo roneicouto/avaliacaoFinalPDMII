@@ -5,6 +5,13 @@ Feito em:
 ![image](https://github.com/user-attachments/assets/73f1437a-7e98-4a7d-9314-9d9a4e5df1e4)
 
 
+## Demonstração:
+
+https://github.com/user-attachments/assets/2911b753-cc8d-4ac1-b541-4779a634611e
+
+
+
+
 ## Conforme solicitado pela disciplina este projeto contém diversos widgets como:
 
 ### Statefull e Stateless
